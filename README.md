@@ -1,12 +1,32 @@
 
 # Fábio Nogueira
-> Cientista de Dados | Business Intelligence
+> Data Scientist | Business Intelligence | Machine Learning & AI | Cloud Computing
 
-Administrador atuando como Gerente de Atendimento em um grande banco nacional. Possuo ampla experiência com gestão de equipes de alta performance comercial.
+Liderando a gestão de uma carteira de 25.000 clientes numa agência porte Diamante no Itaú Unibanco, tenho a responsabilidade de administrar serviços e operações financeiras com o propósito de otimizar resultados e mitigar riscos. Minha trajetória profissional é marcada pelo desenvolvimento de estratégias operacionais e pelo treinamento de equipes, formando gestores e elevando o desempenho comercial do nosso time.
 
-Atuei na elaboração de planos tático e operacional, bem como acompanhamento dos resultados através de indicadores de desempenhos (KPI´s). Possuo experiência como consultor de Pequenas e Micro Empresas em análise e redução de custos, bem como, na implantação de ferramentas da qualidade para melhoria de processos.
+Minha missão é impulsionar a inovação no setor bancário, transformando desafios em oportunidades estratégicas. Com habilidades em linguagens de programação e modelos analíticos, estou preparado para levar a análise de dados ao próximo nível, visando a criação de soluções que contribuam significativamente para a tomada de decisões e o sucesso contínuo da nossa organização.
 
-Como Cientista de Dados amo criar soluções inovadoras e escaláveis transformando dados em insights e decisões estratégicas. Tenho disponibilidade para trabalho remoto ou presencial em outras cidades, estado e países.
+Atualmente, estou me especializando em Data Science, Banco de Dados, Machine Learning e Inteligência Artificial, adquirindo conhecimentos em:
+ · Excel Avançado
+ · Python
+ · SQL Server
+ · Power BI
+ · Cloud Computing (AWS)
+ · Análise de Dados
+ · Mineração de Dados
+ · Modelos Estatísticos
+ · Inglês técnico
+
+Como Cientista de Dados com especialização em Cloud Computing, minhas principais atividades incluem:
+ · Coleta, análise e modelagem de grandes quantidades de dados.
+ · Projetar pipelines de dados e trabalhar com tecnologias de Big Data.
+ · Desenvolver e implementar modelos de aprendizado de máquina.
+ · Fornecer insights estratégicos com base em dados.
+
+Compartilho a missão de melhorar o mundo com projetos tecnológicos que gerem valor para os clientes. Os valores de proximidade, inovação, paixão pela agilidade e compromisso com a consistência ressoam comigo. 
+
+A ênfase no capital humano e a celebração de sucessos compartilhados criam um senso de pertencimento, enquanto a flexibilidade e a capacidade de resolver desafios com excelência, além da digitalização adaptada às necessidades dos projetos, demonstram o impacto significativo dos projetos desenvolvidos por mim.
+
 
 ## Conecte-se
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1B1C1E?style=for-the-badge&logo=linkedin&logoColor=0077B5&border_color=fcf901)](https://www.linkedin.com/in/faanogueira/)
