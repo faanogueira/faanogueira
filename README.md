@@ -29,7 +29,7 @@ A ênfase no capital humano e a celebração de sucessos compartilhados criam um
 
 ## Badges
 <div style="display: inline_block">
-          <img align="center" alt="AWS re-start Graduate" height="90" width="90" src="https://github.com/faanogueira/img/blob/main/aws-re-start-graduate.png">  
+          <img align="center" alt="AWS re-start Graduate" height="120" width="120" src="https://github.com/faanogueira/img/blob/main/aws-re-start-graduate.png">  
      
 </div>
 
