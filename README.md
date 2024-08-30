@@ -29,8 +29,8 @@ A ênfase no capital humano e a celebração de sucessos compartilhados criam um
 
 ## Badges
 <div style="display: inline_block">
-          <img align="center" alt="Hackers do Bem - Nivelamento" height="90" width="90" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/Nivelamento.png">  
-          <img align="center" alt="Hackers do Bem - Básico" height="90" width="90" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/B%C3%A1sico.png">         
+          <img align="center" alt="AWS re-start Graduate" height="90" width="90" src="https://github.com/faanogueira/img/blob/main/aws-re-start-graduate.png">  
+     
 </div>
 
 ## Conecte-se
