@@ -27,6 +27,11 @@ Compartilho a missão de melhorar o mundo com projetos tecnológicos que gerem v
 
 A ênfase no capital humano e a celebração de sucessos compartilhados criam um senso de pertencimento, enquanto a flexibilidade e a capacidade de resolver desafios com excelência, além da digitalização adaptada às necessidades dos projetos, demonstram o impacto significativo dos projetos desenvolvidos por mim.
 
+## Badges
+<div style="display: inline_block">
+          <img align="center" alt="Hackers do Bem - Nivelamento" height="90" width="90" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/Nivelamento.png">  
+          <img align="center" alt="Hackers do Bem - Básico" height="90" width="90" src="https://github.com/JoaoLuizDev/JoaoLuizDev/blob/main/.github/assets/B%C3%A1sico.png">         
+</div>
 
 ## Conecte-se
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1B1C1E?style=for-the-badge&logo=linkedin&logoColor=0077B5&border_color=fcf901)](https://www.linkedin.com/in/faanogueira/)
