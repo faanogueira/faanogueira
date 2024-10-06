@@ -1,17 +1,15 @@
 
-# Fábio Nogueira
+# Oi 👋 sou Fábio Nogueira
 > Data Scientist | Business Intelligence | Machine Learning & AI | Cloud Computing
 
-Liderando a gestão de uma carteira de 25.000 clientes numa agência porte Diamante no Itaú Unibanco, tenho a responsabilidade de administrar serviços e operações financeiras com o propósito de otimizar resultados e mitigar riscos. Minha trajetória profissional é marcada pelo desenvolvimento de estratégias operacionais e pelo treinamento de equipes, formando gestores e elevando o desempenho comercial do nosso time.
-
-Minha missão é impulsionar a inovação no setor bancário, transformando desafios em oportunidades estratégicas. Com habilidades em linguagens de programação e modelos analíticos, estou preparado para levar a análise de dados ao próximo nível, visando a criação de soluções que contribuam significativamente para a tomada de decisões e o sucesso contínuo da nossa organização.
+Minha missão é impulsionar a inovação na área de dados, transformando desafios em oportunidades estratégicas. Com habilidades em linguagens de programação e modelos analíticos, estou preparado para levar a análise de dados ao próximo nível, visando a criação de soluções que contribuam significativamente para a tomada de decisões e o sucesso contínuo da nossa organização.
 
 Atualmente, estou me especializando em Data Science, Banco de Dados, Machine Learning e Inteligência Artificial, adquirindo conhecimentos em:
  · Excel Avançado
  · Python
- · SQL Server
+ · PostgreSQL
  · Power BI
- · Cloud Computing (AWS)
+ · Cloud Computing
  · Análise de Dados
  · Mineração de Dados
  · Modelos Estatísticos
