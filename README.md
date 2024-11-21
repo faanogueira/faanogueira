@@ -45,15 +45,12 @@ A ênfase no capital humano e a celebração de sucessos compartilhados criam um
 ![Github](https://img.shields.io/badge/github-1B1C1E?style=for-the-badge&logo=github&logoColor=EEE)
 
 ### WebDev
-![Flask](https://img.shields.io/badge/Flask-1B1C1E?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-1B1C1E?style=for-the-badge&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-1B1C1E?style=for-the-badge&logo=html5&logoColor=red)
 ![CSS3](https://img.shields.io/badge/CSS3-1B1C1E?style=for-the-badge&logo=css3&logoColor=blue)
 
 ### DataBase
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1B1C1E?style=for-the-badge&logo=postgresql&logoColor=4285F4)
 ![MySQL](https://img.shields.io/badge/MySQL-1B1C1E?style=for-the-badge&logo=mysql&logoColor=white)
-![Sqlite](https://img.shields.io/badge/Sqlite-1B1C1E?style=for-the-badge&logo=Sqlite&logoColor=0E76A8)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1B1C1E?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 
 ### Cloud Computer
