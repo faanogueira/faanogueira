@@ -25,6 +25,12 @@ Compartilho a missão de melhorar o mundo com projetos tecnológicos que gerem v
 
 A ênfase no capital humano e a celebração de sucessos compartilhados criam um senso de pertencimento, enquanto a flexibilidade e a capacidade de resolver desafios com excelência, além da digitalização adaptada às necessidades dos projetos, demonstram o impacto significativo dos projetos desenvolvidos por mim.
 
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 ## Badges
 <div style="display: inline_block">
           <img align="center" alt="AWS re-start Graduate" height="120" width="120" src="https://github.com/faanogueira/img/blob/main/aws-re-start-graduate.png">  
