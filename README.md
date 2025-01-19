@@ -2,28 +2,14 @@
 # Oi 👋 sou Fábio Nogueira
 > Data Scientist | Business Intelligence | Machine Learning & AI | Cloud Computing
 
-Minha missão é impulsionar a inovação na área de dados, transformando desafios em oportunidades estratégicas. Com habilidades em linguagens de programação e modelos analíticos, estou preparado para levar a análise de dados ao próximo nível, visando a criação de soluções que contribuam significativamente para a tomada de decisões e o sucesso contínuo da nossa organização.
+Profissional com mais de 15 anos de experiência em gestão estratégica e operacional no setor financeiro, liderando equipes e administrando uma carteira de 25.000 clientes. Hoje, estou em transição para a área de Ciência de Dados e Inteligência Artificial, integrando minha vivência em análise de negócios com habilidades técnicas avançadas para resolver problemas complexos e promover a inovação.
 
-Atualmente, estou me especializando em Data Science, Banco de Dados, Machine Learning e Inteligência Artificial, adquirindo conhecimentos em:
- · Excel Avançado
- · Python
- · PostgreSQL
- · Power BI
- · Cloud Computing
- · Análise de Dados
- · Mineração de Dados
- · Modelos Estatísticos
- · Inglês técnico
+Desenvolvedor de software iniciante cursando o último ano de bacharelado em Ciência de Dados e Administração de Banco de Dados. Atualmente, estou me especializando em Data Science, Machine Learning, Banco de Dados e Cloud Computing, com expertise nas seguintes tecnologias e metodologias:
+- Linguagens e Ferramentas: Python, PostgreSQL, MySQL, Flask e Excel Avançado.
+- Técnicas de Análise: Mineração de Dados, Modelos Estatísticos, Visualização de Dados.
+- Computação em Nuvem: AWS, Azure, Google Cloud.
 
-Como Cientista de Dados com especialização em Cloud Computing, minhas principais atividades incluem:
- · Coleta, análise e modelagem de grandes quantidades de dados.
- · Projetar pipelines de dados e trabalhar com tecnologias de Big Data.
- · Desenvolver e implementar modelos de aprendizado de máquina.
- · Fornecer insights estratégicos com base em dados.
-
-Compartilho a missão de melhorar o mundo com projetos tecnológicos que gerem valor para os clientes. Os valores de proximidade, inovação, paixão pela agilidade e compromisso com a consistência ressoam comigo. 
-
-A ênfase no capital humano e a celebração de sucessos compartilhados criam um senso de pertencimento, enquanto a flexibilidade e a capacidade de resolver desafios com excelência, além da digitalização adaptada às necessidades dos projetos, demonstram o impacto significativo dos projetos desenvolvidos por mim.
+Minha missão é transformar dados em insights estratégicos e soluções aplicáveis, desenvolvendo pipelines de dados, implementando modelos de aprendizado de máquina e otimizando a tomada de decisões. Estou comprometido em usar a Ciência de Dados como ferramenta para criar valor, contribuir para a inovação organizacional e impulsionar resultados de forma escalável.
 
 
 ## Badges
