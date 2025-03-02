@@ -14,7 +14,8 @@ Minha missão é transformar dados em insights estratégicos e soluções aplic�
 
 ## Badges
 <div style="display: inline_block">
-          <img align="center" alt="AWS re-start Graduate" height="120" width="120" src="https://github.com/faanogueira/img/blob/main/aws-re-start-graduate.png">  
+          <img align="center" alt="AWS re-start Graduate" height="120" width="120" src="https://github.com/faanogueira/img/blob/main/aws-re-start-graduate.png">
+          <img align="center" alt="Artificial Intelligence Fundamentals" height="100" width="100" src="https://github.com/faanogueira/img/blob/main/IBM%20credentials.jpg">
      
 </div>
 
