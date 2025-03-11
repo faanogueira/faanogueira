@@ -1,16 +1,23 @@
 
 # Oi 👋 sou Fábio Nogueira
-> Data Scientist | Business Intelligence | Machine Learning & AI | Cloud Computing
+Data Scientist | Al & Machine Learning | Cloud & Big Data | Business-Driven Insights
 
-Profissional com mais de 15 anos de experiência em gestão estratégica e operacional no setor financeiro, liderando equipes e administrando uma carteira de 25.000 clientes. Hoje, estou em transição para a área de Ciência de Dados e Inteligência Artificial, integrando minha vivência em análise de negócios com habilidades técnicas avançadas para resolver problemas complexos e promover a inovação.
+Profissional com mais de 15 anos de 🚀 Da Estratégia Financeira à Inteligência Artificial: Transformando Dados em Inovação
 
-Desenvolvedor de software iniciante cursando o último ano de bacharelado em Ciência de Dados e Administração de Banco de Dados. Atualmente, estou me especializando em Data Science, Machine Learning, Banco de Dados e Cloud Computing, com expertise nas seguintes tecnologias e metodologias:
-- Linguagens e Ferramentas: Python, PostgreSQL, MySQL, Flask e Excel Avançado.
-- Técnicas de Análise: Mineração de Dados, Modelos Estatísticos, Visualização de Dados.
-- Computação em Nuvem: AWS, Azure, Google Cloud.
+Com mais de 15 anos de experiência em gestão estratégica no setor financeiro, liderando carteiras de alta complexidade e otimizando operações para milhares de clientes, minha missão sempre foi transformar desafios em oportunidades.
 
-Minha missão é transformar dados em insights estratégicos e soluções aplicáveis, desenvolvendo pipelines de dados, implementando modelos de aprendizado de máquina e otimizando a tomada de decisões. Estou comprometido em usar a Ciência de Dados como ferramenta para criar valor, contribuir para a inovação organizacional e impulsionar resultados de forma escalável.
+Agora, em transição para Ciência de Dados e Inteligência Artificial, estou integrando minha expertise em análise de negócios com habilidades técnicas avançadas — de Machine Learning a Processamento de Linguagem Natural — para resolver problemas complexos e impulsionar a inovação.
 
+Minha visão? Unir dados, tecnologia e estratégia para criar soluções que agreguem valor real e escalável, seja no setor financeiro ou em qualquer mercado impulsionado por inteligência analítica.
+
+📊 Expertise: Gestão Estratégica | Ciência de Dados | Machine Learning | NLP | Cloud Computing | Data-Driven Decision Making
+🔎 Interesses: IA Generativa e Automação de Processos.
+
+Atualmente, estou aprofundando minha especialização em Ciência de Dados, Machine Learning e Computação em Nuvem, com foco na aplicação prática dessas tecnologias para a construção de soluções escaláveis e orientadas por dados. Minha experiência com modelagem estatística, análise preditiva e otimização de processos me permite transformar informações complexas em insights estratégicos e inovação de alto impacto.
+
+Acredito que a IA e a Ciência de Dados não são apenas ferramentas, mas forças impulsionadoras para a tomada de decisão inteligente, automação eficiente e criação de novos modelos de negócios. Estou sempre aberto a trocas e oportunidades para colaborar em projetos que gerem valor real.
+
+🎯 Palavras-chave: Ciência de Dados | Inteligência Artificial | Machine Learning | NLP | Deep Learning | Big Data | Cloud Computing | Engenharia de Dados | SQL | Python | Análise Preditiva | Modelagem Estatística | Automação de Processos | Data-Driven Decision Making | Transformação Digital
 
 ## Badges
 <div style="display: inline_block">
