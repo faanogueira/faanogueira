@@ -1,64 +1,105 @@
+<!-- Início da seção de boas-vindas -->
+<h1 align="left">Oi 👋 sou Fábio Nogueira</h1>
+<p align="left">Cientista de Dados | Especialista em Machine Learning & Inteligência Artificial</p>
+<br>
+<p>Seja muito bem-vindo(a) ao meu GitHub! Nesta página, você encontrará meus principais projetos na área de programação assim como um breve resumo da minha trajetória.</p> 
+<!-- Fim da seção de boas-vindas -->
+<br>
+<!-- Início da seção "Sobre mim" -->
+<h2 align="left">🙋 Sobre mim: </h2>
+<img src="https://github.com/faanogueira/img/blob/main/data-science.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="code">
+<p align="left">🎯 Estou em transição de carreira planejada para Ciência de Dados e Inteligência Artificial.</p>
+<p align="left">🚀 Meu objetivo é utilizar minha expertise em análise de negócios com habilidades técnicas avançadas — de Machine Learning a Processamento de Linguagem Natural — para resolver problemas complexos e impulsionar a inovação.</p>
+<p align="left">📊 Atualmente, estou aprofundando minha especialização em <b>Ciência de Dados, Machine Learning e Administração de Banco de Dados</b> pelo <b>Instituto de Pós-Graduação e Graduação (IPOG).</b></p>
+<!-- Fim da seção "Sobre mim" -->
+<br>
+<!-- Início da seção "Habilidades" -->
+<h2 align="left">🛠️ Skills: </h2> 
 
-# Oi 👋 sou Fábio Nogueira
-Data Scientist | Al & Machine Learning | Cloud & Big Data | Business-Driven Insights
-
-Profissional com mais de 15 anos de 🚀 Da Estratégia Financeira à Inteligência Artificial: Transformando Dados em Inovação
-
-Com mais de 15 anos de experiência em gestão estratégica no setor financeiro, liderando carteiras de alta complexidade e otimizando operações para milhares de clientes, minha missão sempre foi transformar desafios em oportunidades.
-
-Agora, em transição para Ciência de Dados e Inteligência Artificial, estou integrando minha expertise em análise de negócios com habilidades técnicas avançadas — de Machine Learning a Processamento de Linguagem Natural — para resolver problemas complexos e impulsionar a inovação.
-
-Minha visão? Unir dados, tecnologia e estratégia para criar soluções que agreguem valor real e escalável, seja no setor financeiro ou em qualquer mercado impulsionado por inteligência analítica.
-
-📊 Expertise: Gestão Estratégica | Ciência de Dados | Machine Learning | NLP | Cloud Computing | Data-Driven Decision Making
-🔎 Interesses: IA Generativa e Automação de Processos.
-
-Atualmente, estou aprofundando minha especialização em Ciência de Dados, Machine Learning e Computação em Nuvem, com foco na aplicação prática dessas tecnologias para a construção de soluções escaláveis e orientadas por dados. Minha experiência com modelagem estatística, análise preditiva e otimização de processos me permite transformar informações complexas em insights estratégicos e inovação de alto impacto.
-
-Acredito que a IA e a Ciência de Dados não são apenas ferramentas, mas forças impulsionadoras para a tomada de decisão inteligente, automação eficiente e criação de novos modelos de negócios. Estou sempre aberto a trocas e oportunidades para colaborar em projetos que gerem valor real.
-
-🎯 Palavras-chave: Ciência de Dados | Inteligência Artificial | Machine Learning | NLP | Deep Learning | Big Data | Cloud Computing | Engenharia de Dados | SQL | Python | Análise Preditiva | Modelagem Estatística | Automação de Processos | Data-Driven Decision Making | Transformação Digital
-
-## Badges
+<h4 align="left">🔙 Backend</h4>
+<div align="left">
+            <img alt="Python" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" /> 
+            <img alt="Java" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" /> 
+</div>
+<br>
+<h4 align="left">📚 Bibliotecas</h4>
+<div align="left">
+            <img alt="Pandas" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" /> 
+            <img alt="Numpy" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" /> 
+            <img alt="TensorFlow" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" /> 
+            <img alt="PyTorch" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000" /> 
+            <img alt="Django" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=qULYrKvr-AFH&format=png&color=000000" /> 
+            <img alt="NodeJS" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" />
+            <img alt="Streamlit" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=Rffi8qeb2fK5&format=png&color=0000000" />
+</div>
+<br>
+<h4 align="left">🗄️ DataBase</h4>
+<div align="left">
+            <img alt="MySQL" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" /> 
+            <img alt="Postgres" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" /> 
+            <img alt="MongoDB" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=tBBf3P8HL0vR&format=png&color=000000" /> 
+</div>
+<br>
+<h4 align="left">📱 Frontend</h4>
+<div align="left">
+            <img alt="Figma" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" /> 
+            <img alt="HTML" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" /> 
+            <img alt="CSS" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" /> 
+            <img alt="JavaScript" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" />
+</div>
+<br>
+<h4 align="left">☁️ Cloud Computer</h4>
+<div align="left">
+            <img alt="AWS" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" /> 
+            <img alt="Azure" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" /> 
+            <img alt="Google Cloud" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=fpGM2cINbbu4&format=png&color=000000" /> 
+</div>
+<br>
+<h4 align="left">📝 IDE</h4>
+<div align="left">
+            <img alt="VSCode" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" /> 
+            <img alt="Collab" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" /> 
+            <img alt="Jupyter" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" /> 
+</div>
+<!-- Fim da seção "Habilidades" -->
+<br>
+<!-- Início da seção "Principais projetos" -->
+<h2>💡 Projetos Relevantes: </h2>
+<ul>
+    <a href="x/" target="_blank">
+        <img src="x" min-width="250px" max-width="250px" width="250px" align="left" alt="Projeto 1">
+    </a>
+    <a href="x" target="_blank">
+        <img src="x" min-width="250px" max-width="250px" width="250px" align="left" alt="Projeto 2">
+    </a>
+    <a href="x" target="_blank">
+        <img src="x" min-width="250px" max-width="250px" width="250px" align="" alt="Projeto 3">
+    </a>
+</ul>
+<!-- Fim da seção "Principais projetos" -->
+<br>
+<!-- Início da seção "Badges" -->
+<h2>🛡️ Badges:</h2>
 <div style="display: inline_block">
           <img align="center" alt="AWS re-start Graduate" height="120" width="120" src="https://github.com/faanogueira/img/blob/main/aws-re-start-graduate.png">
           <img align="center" alt="Scrum Foundation Professional" height="120" width="120" src="https://github.com/faanogueira/img/blob/main/scrum-foundation-professional.png">
           <img align="center" alt="Artificial Intelligence Fundamentals" height="100" width="100" src="https://github.com/faanogueira/img/blob/main/IBM%20credentials.jpg">
-     
 </div>
+<!-- Fim da seção "Habilidades" -->
+<br>
+<!-- Início da seção "Contato" -->
+<h2>🌐 Contate-me: </h2>
+<p>
+<a href="https://www.linkedin.com/in/faanogueira/" target="_blank"><img style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" target="_blank" width="80"> </a>
+<a href="https://api.whatsapp.com/send?phone=5571983937557" target="_blank"><img style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" target="_blank" width="80"> </a>
+<a href="mailto:faanogueira@gmail.com"><img style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" target="_blank" width="80"> </a> 
+</p>
+<!-- Fim da seção "Contato" -->
+<br>
 
-## Conecte-se
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1B1C1E?style=for-the-badge&logo=linkedin&logoColor=0077B5&border_color=fcf901)](https://www.linkedin.com/in/faanogueira/)
-[![Gmail](https://img.shields.io/badge/Gmail-1B1C1E?style=for-the-badge&logo=gmail&logoColor=C71610)](mailto:faanogueira@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-1B1C1E?style=for-the-badge&logo=whatsapp&logoColor=green)](https://api.whatsapp.com/send?phone=5571983937557)
-
-## Habilidades
-### Linguagens
-![Python](https://img.shields.io/badge/python-1B1C1E?style=for-the-badge&logo=python&logoColor=0E76A8)
-![Pandas](https://img.shields.io/badge/Pandas-1B1C1E?style=for-the-badge&logo=pandas&logoColor=green)
-![Jupyter](https://img.shields.io/badge/Jupyter-1B1C1E?style=for-the-badge&logo=jupyter&logoColor=dark-orange)
-![Git](https://img.shields.io/badge/git-1B1C1E?style=for-the-badge&logo=git&logoColor=ORANGE)
-![Github](https://img.shields.io/badge/github-1B1C1E?style=for-the-badge&logo=github&logoColor=EEE)
-
-### WebDev
-![HTML5](https://img.shields.io/badge/HTML5-1B1C1E?style=for-the-badge&logo=html5&logoColor=red)
-![CSS3](https://img.shields.io/badge/CSS3-1B1C1E?style=for-the-badge&logo=css3&logoColor=blue)
-
-### DataBase
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1B1C1E?style=for-the-badge&logo=postgresql&logoColor=4285F4)
-![MySQL](https://img.shields.io/badge/MySQL-1B1C1E?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-1B1C1E?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
-
-### Cloud Computer
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-1B1C1E?style=for-the-badge&logo=microsoft-azure&logoColor=4285F4)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-1B1C1E?style=for-the-badge&logo=google-cloud&logoColor=4285F4)
-![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-1B1C1E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-
-## Git Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabaonogueira&theme=transparent&bg_color=1B1C1E&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_rank=True)
 
 <div>
 <a href="https://github.com/faanogueira">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faanogueira&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=faanogueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faanogueira&layout=compact&langs_count=7&theme=tokyonight"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=faanogueira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
