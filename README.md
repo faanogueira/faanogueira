@@ -15,51 +15,72 @@
 <br>
 <!-- Início da seção "Habilidades" -->
 <h2 align="left">🛠️ Skills: </h2> 
+<!-- Bloco Estiloso e Distribuído -->
+<div style="display: flex; justify-content: space-evenly; flex-wrap: wrap; text-align: center;">
 
-<h4 align="left">🔙 Backend</h4>
-<div align="left">
-            <img alt="Python" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" /> 
-            <img alt="Java" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" /> 
-</div>
-<br>
-<h4 align="left">📚 Bibliotecas</h4>
-<div align="left">
-            <img alt="Pandas" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" /> 
-            <img alt="Numpy" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" /> 
-            <img alt="TensorFlow" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" /> 
-            <img alt="PyTorch" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000" /> 
-            <img alt="Django" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=qULYrKvr-AFH&format=png&color=000000" /> 
-            <img alt="NodeJS" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" />
-            <img alt="Streamlit" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=Rffi8qeb2fK5&format=png&color=0000000" />
-</div>
-<br>
-<h4 align="left">🗄️ DataBase</h4>
-<div align="left">
-            <img alt="MySQL" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" /> 
-            <img alt="Postgres" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" /> 
-            <img alt="MongoDB" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=tBBf3P8HL0vR&format=png&color=000000" /> 
-</div>
-<br>
-<h4 align="left">📱 Frontend</h4>
-<div align="left">
-            <img alt="Figma" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" /> 
-            <img alt="HTML" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" /> 
-            <img alt="CSS" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" /> 
-            <img alt="JavaScript" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" />
-</div>
-<br>
-<h4 align="left">☁️ Cloud Computer</h4>
-<div align="left">
-            <img alt="AWS" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" /> 
-            <img alt="Azure" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" /> 
-            <img alt="Google Cloud" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=fpGM2cINbbu4&format=png&color=000000" /> 
-</div>
-<br>
-<h4 align="left">📝 IDE</h4>
-<div align="left">
-            <img alt="VSCode" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" /> 
-            <img alt="Collab" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" /> 
-            <img alt="Jupyter" width="40" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" /> 
+  <!-- Backend -->
+  <div style="min-width: 200px;">
+    <h4>🔙 <span style="color: #b3b3b3;">Fim</span></h4>
+    <div>
+      <img alt="Python" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" />
+      <img alt="Java" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" />
+    </div>
+  </div>
+
+  <!-- Bibliotecas -->
+  <div style="min-width: 200px;">
+    <h4>📚 <span style="color: #b3b3b3;">Bibliotecas</span></h4>
+    <div>
+      <img alt="Pandas" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" />
+      <img alt="Numpy" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" />
+      <img alt="TensorFlow" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" />
+      <img alt="PyTorch" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000" />
+      <img alt="Django" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=qULYrKvr-AFH&format=png&color=000000" />
+      <img alt="NodeJS" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" />
+      <img alt="Streamlit" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=Rffi8qeb2fK5&format=png&color=0000000" />
+    </div>
+  </div>
+
+  <!-- Database -->
+  <div style="min-width: 200px;">
+    <h4>🗄️ <span style="color: #b3b3b3;">Database</span></h4>
+    <div>
+      <img alt="MySQL" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" />
+      <img alt="Postgres" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" />
+      <img alt="MongoDB" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=tBBf3P8HL0vR&format=png&color=000000" />
+    </div>
+  </div>
+
+  <!-- Frontend -->
+  <div style="min-width: 200px;">
+    <h4>📱 <span style="color: #b3b3b3;">Frontend</span></h4>
+    <div>
+      <img alt="Figma" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" />
+      <img alt="HTML" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
+      <img alt="CSS" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" />
+      <img alt="JavaScript" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" />
+    </div>
+  </div>
+
+  <!-- Cloud -->
+  <div style="min-width: 200px;">
+    <h4>☁️ <span style="color: #b3b3b3;">Cloud</span></h4>
+    <div>
+      <img alt="AWS" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" />
+      <img alt="Azure" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" />
+      <img alt="Google Cloud" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=fpGM2cINbbu4&format=png&color=000000" />
+    </div>
+  </div>
+
+  <!-- IDE -->
+  <div style="min-width: 200px;">
+    <h4>📝 <span style="color: #b3b3b3;">IDE</span></h4>
+    <div>
+      <img alt="VSCode" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" />
+      <img alt="Collab" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" />
+      <img alt="Jupyter" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" />
+    </div>
+  </div>
 </div>
 <!-- Fim da seção "Habilidades" -->
 <br>
