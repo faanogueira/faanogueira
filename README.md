@@ -102,6 +102,7 @@
 <!-- Início da seção "Badges" -->
 <h2>🛡️ Badges:</h2>
 <div style="display: inline_block">
+          <img align="center" alt="Oracle Certified Foundation Associate" height="120" width="120" src="https://github.com/faanogueira/img/blob/main/Oracle_badge.png">
           <img align="center" alt="AWS re-start Graduate" height="120" width="120" src="https://github.com/faanogueira/img/blob/main/aws-re-start-graduate.png">
           <img align="center" alt="Scrum Foundation Professional" height="120" width="120" src="https://github.com/faanogueira/img/blob/main/scrum-foundation-professional.png">
           <img align="center" alt="Artificial Intelligence Fundamentals" height="100" width="100" src="https://github.com/faanogueira/img/blob/main/IBM%20credentials.jpg">
