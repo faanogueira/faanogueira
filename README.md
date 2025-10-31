@@ -87,7 +87,7 @@
 <!-- Fim da seção "Habilidades" -->
 <br>
 <!-- Início da seção "Principais projetos" -->
-<h2>💡 Projetos Relevantes: </h2>
+<!--<h2>💡 Projetos Relevantes: </h2>
 <ul>
     <a href="x/" target="_blank">
         <img src="x" min-width="250px" max-width="250px" width="250px" align="left" alt="Projeto 1">
@@ -98,7 +98,7 @@
     <a href="x" target="_blank">
         <img src="x" min-width="250px" max-width="250px" width="250px" align="" alt="Projeto 3">
     </a>
-</ul>
+</ul> -->
 <!-- Fim da seção "Principais projetos" -->
 <br>
 <!-- Início da seção "Badges" -->
