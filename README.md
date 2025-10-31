@@ -1,6 +1,6 @@
 <!-- Início da seção de boas-vindas -->
 <h1 align="left">Oi 👋 sou Fábio Nogueira</h1>
-<p align="left">Cientista de Dados | Especialista em Machine Learning & Inteligência Artificial</p>
+<p align="left">Cientista de Dados | Especialista em Machine Learning & Inteligência Artificial | Oracle Certified Associate</p>
 <br>
 <p>Seja muito bem-vindo(a) ao meu GitHub! Nesta página, você encontrará meus principais projetos na área de programação assim como um breve resumo da minha trajetória.</p> 
 <!-- Fim da seção de boas-vindas -->
