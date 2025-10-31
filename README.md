@@ -48,6 +48,7 @@
       <img alt="MySQL" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" />
       <img alt="Postgres" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" />
       <img alt="MongoDB" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=tBBf3P8HL0vR&format=png&color=000000" />
+      <img alt="Oracle PL/SQL" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=8ljTDYUEydbJ&format=png&color=000000" />
     </div>
   </div>
 
@@ -69,6 +70,7 @@
       <img alt="AWS" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" />
       <img alt="Azure" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" />
       <img alt="Google Cloud" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=fpGM2cINbbu4&format=png&color=000000" />
+      <img alt="Oracle Cloud" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=39913&format=png&color=000000" />
     </div>
   </div>
 
