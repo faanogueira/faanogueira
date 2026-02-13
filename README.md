@@ -12,9 +12,9 @@
 <!-- Início da seção "Sobre mim" -->
 <h2 align="left">🙋 Sobre mim: </h2>
 <img src="https://github.com/faanogueira/img/blob/main/data-science.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="code">
-<p align="left">🎯 Estou em transição de carreira planejada para Ciência de Dados e Inteligência Artificial.</p>
-<p align="left">🚀 Meu objetivo é utilizar minha expertise em análise de negócios com habilidades técnicas avançadas — de Machine Learning a Processamento de Linguagem Natural — para resolver problemas complexos e impulsionar a inovação.</p>
-<p align="left">📊 Atualmente, estou aprofundando minha especialização em <b>Ciência de Dados, Machine Learning e Administração de Banco de Dados</b> pelo <b>Instituto de Pós-Graduação e Graduação (IPOG).</b></p>
+<p align="left">Sou Desenvolvedor Backend Python com foco em construção de APIs REST, integração de modelos de Machine Learning e soluções orientadas a dados.</p>
+<p align="left">Atuo no desenvolvimento de aplicações utilizando FastAPI, bancos relacionais e ambientes cloud, com atenção a performance, organização de código e escalabilidade.</p>
+<p align="left">Tenho sólida base em Ciência de Dados, incluindo Machine Learning, Processamento de Linguagem Natural e modelagem estatística, o que me permite desenvolver serviços backend já preparados para integração com modelos preditivos e sistemas inteligentes.</p>
 <!-- Fim da seção "Sobre mim" -->
 <br>
 <!-- Início da seção "Habilidades" -->
