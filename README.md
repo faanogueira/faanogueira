@@ -1,8 +1,12 @@
 <!-- Início da seção de boas-vindas -->
-<h1 align="left">Oi 👋 sou Fábio Nogueira</h1>
-<p align="left">Cientista de Dados | Especialista em Machine Learning & Inteligência Artificial | Oracle Certified Associate</p>
+<h1 align="left">Fábio Nogueira</h1>
+<h2 align="left">Desenvolvedor Backend Python | APIs REST | Machine Learning | Cloud</h2>
 <br>
-<p>Seja muito bem-vindo(a) ao meu GitHub! Nesta página, você encontrará meus principais projetos na área de programação assim como um breve resumo da minha trajetória.</p> 
+<p>Sou Desenvolvedor Backend Python com foco em construção de APIs REST, integração de modelos de Machine Learning e arquiteturas orientadas a dados.</p>
+<br>
+<p>Atuo no desenvolvimento de serviços escaláveis utilizando FastAPI, Docker e ambientes cloud como AWS e GCP.</p> 
+<br>
+<p>Possuo forte base em Ciência de Dados, o que me permite desenvolver soluções backend já orientadas a métricas, performance e integração com modelos preditivos.</p> 
 <!-- Fim da seção de boas-vindas -->
 <br>
 <!-- Início da seção "Sobre mim" -->
