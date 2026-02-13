@@ -2,11 +2,10 @@
 <h1 align="left">Fábio Nogueira</h1>
 <h2 align="left">Desenvolvedor Backend Python | APIs REST | Machine Learning | Cloud</h2>
 <br>
-<p>Sou Desenvolvedor Backend Python com foco em construção de APIs REST, integração de modelos de Machine Learning e arquiteturas orientadas a dados.</p>
-<br>
-<p>Atuo no desenvolvimento de serviços escaláveis utilizando FastAPI, Docker e ambientes cloud como AWS e GCP.</p> 
-<br>
-<p>Possuo forte base em Ciência de Dados, o que me permite desenvolver soluções backend já orientadas a métricas, performance e integração com modelos preditivos.</p> 
+<p>
+Desenvolvedor Backend Python com experiência na construção de APIs REST e serviços orientados a dados. Atuo integrando modelos de Machine Learning a aplicações web, utilizando FastAPI, bancos relacionais e ambientes cloud como AWS e GCP. Minha base sólida em Ciência de Dados me permite desenvolver soluções backend com foco em performance, escalabilidade e suporte a sistemas inteligentes.
+</p>
+
 <!-- Fim da seção de boas-vindas -->
 <br>
 <!-- Início da seção "Sobre mim" -->
