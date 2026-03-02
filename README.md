@@ -10,7 +10,7 @@ Desenvolvedor Backend Python com experiência na construção de APIs REST e ser
 <br>
 <!-- Início da seção "Sobre mim" -->
 <h2 align="left">🙋 Sobre mim: </h2>
-<img src="https://github.com/faanogueira/img/blob/main/data-science.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="code">
+<img src="https://github.com/faanogueira/faanogueira/blob/main/img/data-science.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="code">
 <p align="left">Sou Desenvolvedor Backend Python com foco em construção de APIs REST, integração de modelos de Machine Learning e soluções orientadas a dados.</p>
 <p align="left">Atuo no desenvolvimento de aplicações utilizando FastAPI, bancos relacionais e ambientes cloud, com atenção a performance, organização de código e escalabilidade.</p>
 <p align="left">Tenho sólida base em Ciência de Dados, incluindo Machine Learning, Processamento de Linguagem Natural e modelagem estatística, o que me permite desenvolver serviços backend já preparados para integração com modelos preditivos e sistemas inteligentes.</p>
@@ -107,10 +107,10 @@ Desenvolvedor Backend Python com experiência na construção de APIs REST e ser
 <!-- Início da seção "Badges" -->
 <h2>🛡️ Badges:</h2>
 <div style="display: inline_block">
-          <img align="center" alt="Oracle Certified Foundation Associate" height="120" width="120" src="https://github.com/faanogueira/img/blob/main/Oracle_badge.png">
-          <img align="center" alt="AWS re-start Graduate" height="120" width="120" src="https://github.com/faanogueira/img/blob/main/aws-re-start-graduate.png">
-          <img align="center" alt="Scrum Foundation Professional" height="120" width="120" src="https://github.com/faanogueira/img/blob/main/scrum-foundation-professional.png">
-          <img align="center" alt="Artificial Intelligence Fundamentals" height="100" width="100" src="https://github.com/faanogueira/img/blob/main/IBM%20credentials.jpg">
+          <img align="center" alt="Oracle Certified Foundation Associate" height="120" width="120" src="https://github.com/faanogueira/faanogueira/blob/main/img/Oracle_badge.png">
+          <img align="center" alt="AWS re-start Graduate" height="120" width="120" src="https://github.com/faanogueira/faanogueira/blob/main/img/aws-re-start-graduate.png">
+          <img align="center" alt="Scrum Foundation Professional" height="120" width="120" src="https://github.com/faanogueira/faanogueira/blob/main/img/scrum-foundation-professional.png">
+          <img align="center" alt="Artificial Intelligence Fundamentals" height="100" width="100" src="https://github.com/faanogueira/faanogueira/blob/main/img/IBM%20credentials.jpg">
 </div>
 <!-- Fim da seção "Habilidades" -->
 <br>
