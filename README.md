@@ -94,38 +94,37 @@ Desenvolvedor Backend Python com experiência na construção de APIs REST e ser
 <!-- Fim da seção "Habilidades" -->
 <br>
 <!-- Início da seção "Principais projetos" -->
-<h2>💡 Projetos Relevantes: </h2>
+<h2>💡 Portfólio: </h2>
 <div align="center">
-  <a href="https://github.com/faanogueira/local-ai-stack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faanogueira&repo=local-ai-stack&theme=dracula" alt="Local AI Stack" width="400px" />
+  <a href="https://fabio-nogueira.vercel.app" target="_blank">
+    <img src="./img/portfolio_site.png" alt="Site do Portfólio" width="280px" style="margin: 5px; border-radius: 10px;" />
   </a>
-  <a href="https://github.com/faanogueira/personal-ai-stack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faanogueira&repo=personal-ai-stack&theme=dracula" alt="Personal AI Stack" width="400px" />
+  <a href="https://github.com/faanogueira/local-ai-stack" target="_blank">
+    <img src="./img/local_ai_stack.png" alt="Local AI Stack" width="280px" style="margin: 5px; border-radius: 10px;" />
   </a>
-  <br>
-  <a href="https://github.com/faanogueira/mygemma4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faanogueira&repo=mygemma4&theme=dracula" alt="MyGemma4" width="400px" />
+  <a href="https://github.com/faanogueira/personal-ai-stack" target="_blank">
+    <img src="./img/personal_ai_stack.png" alt="Personal AI Stack" width="280px" style="margin: 5px; border-radius: 10px;" />
   </a>
-  <a href="https://github.com/faanogueira/bible_rag_llm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faanogueira&repo=bible_rag_llm&theme=dracula" alt="Bible RAG LLM" width="400px" />
+  <a href="https://github.com/faanogueira/mygemma4" target="_blank">
+    <img src="./img/mygemma4.png" alt="MyGemma4" width="280px" style="margin: 5px; border-radius: 10px;" />
   </a>
-  <br>
-  <a href="https://github.com/faanogueira/ai_agents_analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faanogueira&repo=ai_agents_analysis&theme=dracula" alt="AI Agents Analysis" width="400px" />
+  <a href="https://github.com/faanogueira/bible_rag_llm" target="_blank">
+    <img src="./img/bible_rag_llm.png" alt="Bible RAG LLM" width="280px" style="margin: 5px; border-radius: 10px;" />
   </a>
-  <a href="https://github.com/faanogueira/strategic-analysis-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faanogueira&repo=strategic-analysis-portfolio&theme=dracula" alt="Strategic Analysis Portfolio" width="400px" />
+  <a href="https://github.com/faanogueira/ai_agents_analysis" target="_blank">
+    <img src="./img/ai_agents_analysis.png" alt="AI Agents Analysis" width="280px" style="margin: 5px; border-radius: 10px;" />
   </a>
-  <br>
-  <a href="https://github.com/faanogueira/agent_crewai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faanogueira&repo=agent_crewai&theme=dracula" alt="Agent CrewAI" width="400px" />
+  <a href="https://github.com/faanogueira/strategic-analysis-portfolio" target="_blank">
+    <img src="./img/strategic_analysis.png" alt="Strategic Analysis Portfolio" width="280px" style="margin: 5px; border-radius: 10px;" />
   </a>
-  <a href="https://github.com/faanogueira/recycle-vision-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faanogueira&repo=recycle-vision-app&theme=dracula" alt="Recycle Vision App" width="400px" />
+  <a href="https://github.com/faanogueira/agent_crewai" target="_blank">
+    <img src="./img/agent_crewai.png" alt="Agent CrewAI" width="280px" style="margin: 5px; border-radius: 10px;" />
   </a>
-  <br>
-  <a href="https://github.com/faanogueira/RentalPricing_MachineLearning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faanogueira&repo=RentalPricing_MachineLearning&theme=dracula" alt="Rental Pricing Machine Learning" width="400px" />
+  <a href="https://github.com/faanogueira/recycle-vision-app" target="_blank">
+    <img src="./img/recycle_vision.png" alt="Recycle Vision App" width="280px" style="margin: 5px; border-radius: 10px;" />
+  </a>
+  <a href="https://github.com/faanogueira/RentalPricing_MachineLearning" target="_blank">
+    <img src="./img/rental_pricing.png" alt="Rental Pricing Machine Learning" width="280px" style="margin: 5px; border-radius: 10px;" />
   </a>
 </div>
 <!-- Fim da seção "Principais projetos" -->
