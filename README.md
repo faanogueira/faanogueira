@@ -2,6 +2,10 @@
 <h1 align="left">Fábio Nogueira</h1>
 <h2 align="left">Desenvolvedor Backend Python | APIs REST | Machine Learning | Cloud</h2>
 <br>
+<a href="https://fabio-nogueira.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Acesse_meu-Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
+</a>
+<br>
 <p>
 Desenvolvedor Backend Python com experiência na construção de APIs REST e serviços orientados a dados. Atuo integrando modelos de Machine Learning a aplicações web, utilizando FastAPI, bancos relacionais e ambientes cloud como AWS e GCP. Minha base sólida em Ciência de Dados me permite desenvolver soluções backend com foco em performance, escalabilidade e suporte a sistemas inteligentes.
 </p>
@@ -10,7 +14,7 @@ Desenvolvedor Backend Python com experiência na construção de APIs REST e ser
 <br>
 <!-- Início da seção "Sobre mim" -->
 <h2 align="left">🙋 Sobre mim: </h2>
-<img src="https://github.com/faanogueira/faanogueira/blob/main/img/data-science.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="code">
+<img src="./img/data-science.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="code">
 <p align="left">Sou Desenvolvedor Backend Python com foco em construção de APIs REST, integração de modelos de Machine Learning e soluções orientadas a dados.</p>
 <p align="left">Atuo no desenvolvimento de aplicações utilizando FastAPI, bancos relacionais e ambientes cloud, com atenção a performance, organização de código e escalabilidade.</p>
 <p align="left">Tenho sólida base em Ciência de Dados, incluindo Machine Learning, Processamento de Linguagem Natural e modelagem estatística, o que me permite desenvolver serviços backend já preparados para integração com modelos preditivos e sistemas inteligentes.</p>
@@ -90,27 +94,31 @@ Desenvolvedor Backend Python com experiência na construção de APIs REST e ser
 <!-- Fim da seção "Habilidades" -->
 <br>
 <!-- Início da seção "Principais projetos" -->
-<!--<h2>💡 Projetos Relevantes: </h2>
-<ul>
-    <a href="x/" target="_blank">
-        <img src="x" min-width="250px" max-width="250px" width="250px" align="left" alt="Projeto 1">
-    </a>
-    <a href="x" target="_blank">
-        <img src="x" min-width="250px" max-width="250px" width="250px" align="left" alt="Projeto 2">
-    </a>
-    <a href="x" target="_blank">
-        <img src="x" min-width="250px" max-width="250px" width="250px" align="" alt="Projeto 3">
-    </a>
-</ul> -->
+<h2>💡 Projetos Relevantes: </h2>
+<div align="center">
+  <a href="https://github.com/faanogueira/local-ai-stack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faanogueira&repo=local-ai-stack&theme=dracula" alt="Local AI Stack" width="400px" />
+  </a>
+  <a href="https://github.com/faanogueira/agent_crewai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faanogueira&repo=agent_crewai&theme=dracula" alt="Agent CrewAI" width="400px" />
+  </a>
+  <br>
+  <a href="https://github.com/faanogueira/bible_rag_llm">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faanogueira&repo=bible_rag_llm&theme=dracula" alt="Bible RAG LLM" width="400px" />
+  </a>
+  <a href="https://github.com/faanogueira/recycle-vision-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faanogueira&repo=recycle-vision-app&theme=dracula" alt="Recycle Vision App" width="400px" />
+  </a>
+</div>
 <!-- Fim da seção "Principais projetos" -->
 <br>
 <!-- Início da seção "Badges" -->
 <h2>🛡️ Badges:</h2>
 <div style="display: inline_block">
-          <img align="center" alt="Oracle Certified Foundation Associate" height="120" width="120" src="https://github.com/faanogueira/faanogueira/blob/main/img/Oracle_badge.png">
-          <img align="center" alt="AWS re-start Graduate" height="120" width="120" src="https://github.com/faanogueira/faanogueira/blob/main/img/aws-re-start-graduate.png">
-          <img align="center" alt="Scrum Foundation Professional" height="120" width="120" src="https://github.com/faanogueira/faanogueira/blob/main/img/scrum-foundation-professional.png">
-          <img align="center" alt="Artificial Intelligence Fundamentals" height="100" width="100" src="https://github.com/faanogueira/faanogueira/blob/main/img/IBM%20credentials.jpg">
+          <img align="center" alt="Oracle Certified Foundation Associate" height="120" width="120" src="./img/Oracle_badge.png">
+          <img align="center" alt="AWS re-start Graduate" height="120" width="120" src="./img/aws-re-start-graduate.png">
+          <img align="center" alt="Scrum Foundation Professional" height="120" width="120" src="./img/scrum-foundation-professional.png">
+          <img align="center" alt="Artificial Intelligence Fundamentals" height="100" width="100" src="./img/IBM%20credentials.jpg">
 </div>
 <!-- Fim da seção "Habilidades" -->
 <br>
@@ -123,6 +131,7 @@ Desenvolvedor Backend Python com experiência na construção de APIs REST e ser
 <a href="https://www.linkedin.com/in/faanogueira/" target="_blank"><img style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" target="_blank" width="80"></a>
 <a href="https://github.com/faanogueira" target="_blank"><img style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000" target="_blank" width="80"></a>
 <a href="https://api.whatsapp.com/send?phone=5571983937557" target="_blank"><img style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" target="_blank" width="80"></a>
+<a href="https://fabio-nogueira.vercel.app" target="_blank"><img style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=43990&format=png&color=000000" target="_blank" width="80" title="Portfólio"></a> 
 <a href="mailto:faanogueira@gmail.com"><img style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" target="_blank" width="80"></a> 
 </p>
 <!-- Fim da seção "Contato" -->
