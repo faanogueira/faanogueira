@@ -95,68 +95,11 @@ Desenvolvedor Backend Python com experiência na construção de APIs REST e ser
 <br>
 <!-- Início da seção "Principais projetos" -->
 <h2>💡 Portfólio: </h2>
-<div align="center">
-  <div style="display: inline-block; margin: 10px; width: 140px; vertical-align: top;">
-    <a href="https://fabio-nogueira.vercel.app" target="_blank" style="text-decoration: none;">
-      <img src="./img/portfolio_site.png" alt="Site do Portfólio" width="120px" style="border-radius: 10px;" /><br />
-      <sub><b>Site do Portfólio</b></sub>
-    </a>
-  </div>
-  <div style="display: inline-block; margin: 10px; width: 140px; vertical-align: top;">
-    <a href="https://github.com/faanogueira/local-ai-stack" target="_blank" style="text-decoration: none;">
-      <img src="./img/local_ai_stack.png" alt="Local AI Stack" width="120px" style="border-radius: 10px;" /><br />
-      <sub><b>Local AI Stack</b></sub>
-    </a>
-  </div>
-  <div style="display: inline-block; margin: 10px; width: 140px; vertical-align: top;">
-    <a href="https://github.com/faanogueira/personal-ai-stack" target="_blank" style="text-decoration: none;">
-      <img src="./img/personal_ai_stack.png" alt="Personal AI Stack" width="120px" style="border-radius: 10px;" /><br />
-      <sub><b>Personal AI Stack</b></sub>
-    </a>
-  </div>
-  <div style="display: inline-block; margin: 10px; width: 140px; vertical-align: top;">
-    <a href="https://github.com/faanogueira/mygemma4" target="_blank" style="text-decoration: none;">
-      <img src="./img/mygemma4.png" alt="MyGemma4" width="120px" style="border-radius: 10px;" /><br />
-      <sub><b>MyGemma4</b></sub>
-    </a>
-  </div>
-  <div style="display: inline-block; margin: 10px; width: 140px; vertical-align: top;">
-    <a href="https://github.com/faanogueira/bible_rag_llm" target="_blank" style="text-decoration: none;">
-      <img src="./img/bible_rag_llm.png" alt="Bible RAG LLM" width="120px" style="border-radius: 10px;" /><br />
-      <sub><b>Bible RAG LLM</b></sub>
-    </a>
-  </div>
-  <div style="display: inline-block; margin: 10px; width: 140px; vertical-align: top;">
-    <a href="https://github.com/faanogueira/ai_agents_analysis" target="_blank" style="text-decoration: none;">
-      <img src="./img/ai_agents_analysis.png" alt="AI Agents Analysis" width="120px" style="border-radius: 10px;" /><br />
-      <sub><b>AI Agents Analysis</b></sub>
-    </a>
-  </div>
-  <div style="display: inline-block; margin: 10px; width: 140px; vertical-align: top;">
-    <a href="https://github.com/faanogueira/strategic-analysis-portfolio" target="_blank" style="text-decoration: none;">
-      <img src="./img/strategic_analysis.png" alt="Strategic Analysis Portfolio" width="120px" style="border-radius: 10px;" /><br />
-      <sub><b>Strategic Analysis</b></sub>
-    </a>
-  </div>
-  <div style="display: inline-block; margin: 10px; width: 140px; vertical-align: top;">
-    <a href="https://github.com/faanogueira/agent_crewai" target="_blank" style="text-decoration: none;">
-      <img src="./img/agent_crewai.png" alt="Agent CrewAI" width="120px" style="border-radius: 10px;" /><br />
-      <sub><b>Agent CrewAI</b></sub>
-    </a>
-  </div>
-  <div style="display: inline-block; margin: 10px; width: 140px; vertical-align: top;">
-    <a href="https://github.com/faanogueira/recycle-vision-app" target="_blank" style="text-decoration: none;">
-      <img src="./img/recycle_vision.png" alt="Recycle Vision App" width="120px" style="border-radius: 10px;" /><br />
-      <sub><b>Recycle Vision App</b></sub>
-    </a>
-  </div>
-  <div style="display: inline-block; margin: 10px; width: 140px; vertical-align: top;">
-    <a href="https://github.com/faanogueira/RentalPricing_MachineLearning" target="_blank" style="text-decoration: none;">
-      <img src="./img/rental_pricing.png" alt="Rental Pricing" width="120px" style="border-radius: 10px;" /><br />
-      <sub><b>Rental Pricing ML</b></sub>
-    </a>
-  </div>
-</div>
+
+| | | | | |
+|:---:|:---:|:---:|:---:|:---:|
+| <a href="https://fabio-nogueira.vercel.app" target="_blank"><img src="./img/portfolio_site.png" alt="Site do Portfólio" width="120px" style="border-radius: 10px;" /><br><br><kbd>Site do Portfólio</kbd></a> | <a href="https://github.com/faanogueira/local-ai-stack" target="_blank"><img src="./img/local_ai_stack.png" alt="Local AI Stack" width="120px" style="border-radius: 10px;" /><br><br><kbd>Local AI Stack</kbd></a> | <a href="https://github.com/faanogueira/personal-ai-stack" target="_blank"><img src="./img/personal_ai_stack.png" alt="Personal AI Stack" width="120px" style="border-radius: 10px;" /><br><br><kbd>Personal AI Stack</kbd></a> | <a href="https://github.com/faanogueira/mygemma4" target="_blank"><img src="./img/mygemma4.png" alt="MyGemma4" width="120px" style="border-radius: 10px;" /><br><br><kbd>MyGemma4</kbd></a> | <a href="https://github.com/faanogueira/bible_rag_llm" target="_blank"><img src="./img/bible_rag_llm.png" alt="Bible RAG LLM" width="120px" style="border-radius: 10px;" /><br><br><kbd>Bible RAG LLM</kbd></a> |
+| <a href="https://github.com/faanogueira/ai_agents_analysis" target="_blank"><img src="./img/ai_agents_analysis.png" alt="AI Agents Analysis" width="120px" style="border-radius: 10px;" /><br><br><kbd>AI Agents Analysis</kbd></a> | <a href="https://github.com/faanogueira/strategic-analysis-portfolio" target="_blank"><img src="./img/strategic_analysis.png" alt="Strategic Analysis" width="120px" style="border-radius: 10px;" /><br><br><kbd>Strategic Analysis</kbd></a> | <a href="https://github.com/faanogueira/agent_crewai" target="_blank"><img src="./img/agent_crewai.png" alt="Agent CrewAI" width="120px" style="border-radius: 10px;" /><br><br><kbd>Agent CrewAI</kbd></a> | <a href="https://github.com/faanogueira/recycle-vision-app" target="_blank"><img src="./img/recycle_vision.png" alt="Recycle Vision App" width="120px" style="border-radius: 10px;" /><br><br><kbd>Recycle Vision App</kbd></a> | <a href="https://github.com/faanogueira/RentalPricing_MachineLearning" target="_blank"><img src="./img/rental_pricing.png" alt="Rental Pricing" width="120px" style="border-radius: 10px;" /><br><br><kbd>Rental Pricing ML</kbd></a> |
 <!-- Fim da seção "Principais projetos" -->
 <br>
 <!-- Início da seção "Badges" -->
