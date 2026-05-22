@@ -90,6 +90,7 @@ Desenvolvedor Backend Python com experiência na construção de APIs REST e ser
       <img alt="VSCode" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" />
       <img alt="Collab" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" />
       <img alt="Jupyter" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" />
+      <img alt="Cursor AI" width="40" style="margin: 5px;" src="https://img.icons8.com/color/48/cursor-ai.png" />
     </div>
   </div>
 </div>
