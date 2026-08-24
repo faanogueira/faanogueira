@@ -43,8 +43,6 @@ Cientista de Dados especializado em transformar problemas de negócio em soluç�
       <img alt="Numpy" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" />
       <img alt="TensorFlow" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" />
       <img alt="PyTorch" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000" />
-      <img alt="Django" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=qULYrKvr-AFH&format=png&color=000000" />
-      <img alt="NodeJS" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" />
       <img alt="Streamlit" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=Rffi8qeb2fK5&format=png&color=0000000" />
     </div>
   </div>
