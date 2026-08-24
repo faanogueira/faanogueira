@@ -9,7 +9,7 @@
 </div>
 <br>
 <p>
-Cientista de Dados especializado em transformar problemas de negócio em soluções analíticas utilizando Python, SQL, Machine Learning e IA. Minha trajetória combina experiência técnica em dados com mais de 15 anos em cargo de liderança no setor financeiro, especialmente em crédito, comportamento de clientes, indicadores e tomada de decisão orientada por dados.
+Cientista de Dados especializado em transformar problemas de negócio em soluções analíticas utilizando Python, SQL, Machine Learning e IA.
 </p>
 
 <!-- Fim da seção de boas-vindas -->
