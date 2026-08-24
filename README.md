@@ -17,9 +17,9 @@ Cientista de Dados especializado em transformar problemas de negócio em soluç�
 <!-- Início da seção "Sobre mim" -->
 <h2 align="left">🙋 Sobre mim: </h2>
 <img src="./img/data-science.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="code">
-<p align="left">Sou Desenvolvedor Backend Python com foco em construção de APIs REST, integração de modelos de Machine Learning e soluções orientadas a dados.</p>
-<p align="left">Atuo no desenvolvimento de aplicações utilizando FastAPI, bancos relacionais e ambientes cloud, com atenção a performance, organização de código e escalabilidade.</p>
-<p align="left">Tenho sólida base em Ciência de Dados, incluindo Machine Learning, Processamento de Linguagem Natural e modelagem estatística, o que me permite desenvolver serviços backend já preparados para integração com modelos preditivos e sistemas inteligentes.</p>
+<p align="left">Minha trajetória combina experiência técnica em dados com mais de 15 anos em cargo de liderança no setor financeiro, especialmente em crédito, comportamento de clientes, indicadores e tomada de decisão orientada por dados.</p>
+<p align="left">Ao longo da carreira no Itaú Unibanco, trabalhei com carteiras superiores a 25 mil clientes, análise de performance e decisões relacionadas a crédito e risco, além de liderar equipes e iniciativas orientadas por indicadores. Em 2024, fui reconhecido como Destaque Nacional em performance.</p>
+<p align="left">Atualmente concentro minha atuação em Ciência de Dados, desenvolvendo projetos envolvendo modelagem preditiva, análise estatística, Machine Learning, RAG, LLMs, pipelines de dados e deploy de aplicações em cloud.</p>
 <!-- Fim da seção "Sobre mim" -->
 <br>
 <!-- Início da seção "Habilidades" -->
@@ -32,7 +32,6 @@ Cientista de Dados especializado em transformar problemas de negócio em soluç�
     <h4>🔙 <span style="color: #b3b3b3;">Fim</span></h4>
     <div>
       <img alt="Python" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" />
-      <img alt="Java" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" />
     </div>
   </div>
 
@@ -61,17 +60,6 @@ Cientista de Dados especializado em transformar problemas de negócio em soluç�
     </div>
   </div>
 
-  <!-- Frontend -->
-  <div style="min-width: 200px;">
-    <h4>📱 <span style="color: #b3b3b3;">Frontend</span></h4>
-    <div>
-      <img alt="Figma" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" />
-      <img alt="HTML" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
-      <img alt="CSS" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" />
-      <img alt="JavaScript" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" />
-    </div>
-  </div>
-
   <!-- Cloud -->
   <div style="min-width: 200px;">
     <h4>☁️ <span style="color: #b3b3b3;">Cloud</span></h4>
@@ -83,17 +71,6 @@ Cientista de Dados especializado em transformar problemas de negócio em soluç�
     </div>
   </div>
 
-  <!-- IDE -->
-  <div style="min-width: 200px;">
-    <h4>📝 <span style="color: #b3b3b3;">IDE</span></h4>
-    <div>
-      <img alt="VSCode" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" />
-      <img alt="Collab" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" />
-      <img alt="Jupyter" width="40" style="margin: 5px;" src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" />
-      <img alt="Cursor AI" width="40" style="margin: 5px;" src="https://img.icons8.com/color/48/cursor-ai.png" />
-    </div>
-  </div>
-</div>
 <!-- Fim da seção "Habilidades" -->
 <br>
 <!-- Início da seção "Principais projetos" -->
@@ -124,7 +101,7 @@ Cientista de Dados especializado em transformar problemas de negócio em soluç�
 <a href="https://www.linkedin.com/in/faanogueira/" target="_blank"><img style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" target="_blank" width="80" title="LinkedIn"></a>
 <a href="https://github.com/faanogueira" target="_blank"><img style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000" target="_blank" width="80" title="GitHub"></a>
 <a href="https://api.whatsapp.com/send?phone=5571983937557" target="_blank"><img style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" target="_blank" width="80" title="WhatsApp"></a>
-<a href="https://fabio-nogueira.vercel.app" target="_blank"><img style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=9x65MLqCekT5&format=png&color=000000" target="_blank" width="80" title="Portfólio"></a> 
+<a href="https://fabionogueira.dev.br" target="_blank"><img style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=9x65MLqCekT5&format=png&color=000000" target="_blank" width="80" title="Portfólio"></a> 
 <a href="mailto:faanogueira@gmail.com"><img style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" target="_blank" width="80" title="Email"></a> 
 </p>
 <!-- Fim da seção "Contato" -->
