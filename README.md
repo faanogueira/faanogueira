@@ -18,7 +18,7 @@ Cientista de Dados especializado em transformar problemas de negócio em soluç�
 <h2 align="left">🙋 Sobre mim: </h2>
 <img src="./img/data-science.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="code">
 <p align="left">Minha trajetória combina experiência técnica em dados com mais de 15 anos em cargo de liderança no setor financeiro, especialmente em crédito, comportamento de clientes, indicadores e tomada de decisão orientada por dados.</p>
-<p align="left">Ao longo da carreira no Itaú Unibanco, trabalhei com carteiras superiores a 25 mil clientes, análise de performance e decisões relacionadas a crédito e risco, além de liderar equipes e iniciativas orientadas por indicadores. Em 2024, fui reconhecido como Destaque Nacional em performance.</p>
+
 <p align="left">Atualmente concentro minha atuação em Ciência de Dados, desenvolvendo projetos envolvendo modelagem preditiva, análise estatística, Machine Learning, RAG, LLMs, pipelines de dados e deploy de aplicações em cloud.</p>
 <!-- Fim da seção "Sobre mim" -->
 <br>
