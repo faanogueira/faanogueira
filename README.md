@@ -91,7 +91,7 @@ Cientista de Dados especializado em transformar problemas de negócio em soluç�
   </tr>
   <tr>
     <td align="center" width="20%"><a href="https://github.com/faanogueira/aws-biblical-messenger" target="_blank"><img src="./img/aws_biblical_messenger.png" alt="Mensageiro Bíblico" width="120px" style="border-radius: 10px;" /><br><br><kbd>Mensageiro Bíblico</kbd></a></td>
-    <td align="center" width="20%">soon</td>
+    <td align="center" width="20%"><a href="https://github.com/faanogueira/CreditExplain_AI" target="_blank"><img src="./img/CreditExplain_AI.jpg" alt="Credit Explain" width="120px" style="border-radius: 10px;" /><br><br><kbd>Credit Explain AI</kbd></a></td>
     <td align="center" width="20%">soon</td>
     <td align="center" width="20%">soon</td>
     <td align="center" width="20%">soon</td>
